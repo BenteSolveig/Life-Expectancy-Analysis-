@@ -19,10 +19,11 @@ In this data portfolio project, utilizing World Bank data, I conducted a compreh
 **Data**
 
 The dataset "Life Expectancy 2000-2020" was obtained from Kaggle and originates from the World Bank. It provides comprehensive information on various socio-economic indicators for different countries from 2000 to 2020. The dataset includes data on life expectancy, population, CO2 emissions, health expenditure, GDP per capita, internet usage, and more. 
-It can be found here: [http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip ](https://www.kaggle.com/datasets/raminrzayev/life-expectancy-2000-2020)
+It can be found here: [https://www.kaggle.com/datasets/raminrzayev/life-expectancy-2000-2020 ]
 
 I analysed the Data using Python. 
- 
+
+Link to The Tableau storyboard: [(https://public.tableau.com/app/profile/bente.bruun/viz/LifeExpectancyAnalysis_17105151442580/LifeExpectancyAnalysis?publish=yes)]
 
 
 
